@@ -1,3 +1,3 @@
 def introduction(name)
-  "Hello, my name is #{name}.\n"
+  "Hi, my name is #{name}.\n"
 end
